@@ -1,1 +1,1 @@
-# WebTesting
+# Katalon test web stranice
