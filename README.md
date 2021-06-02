@@ -1,4 +1,4 @@
-# Katalon test web stranice
+# Katalon test web aplikacije
 
 Katalon Studio je rješenje za automatizirano testiranje web stranica. Katalon Studio nudi dvostruko sučelje za stvaranje testnih slučajeva, takozvani manualni prikaz za korisnike koji nisu toliko iskusni i drugi prikaz, prikaz skripte za iskusnije korisnike koji su upoznati s testiranjem te samom sintaksom. Možemo napomenuti da Katalon prati Page Model Object te omogućava snimanje komandi, elementa itd. te njihovo daljnje korištenje. Preteća ovog alata je Selenium IDE Firefox extension. 
 
